@@ -1,6 +1,5 @@
 class Board:
-    def spam(self):
-        print("Spam!")
+    def __init__(self):
+        pass
     
 gameboard = Board()
-gameboard.spam()
