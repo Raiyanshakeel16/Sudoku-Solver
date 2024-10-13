@@ -1,3 +1,5 @@
 class Board:
-    pass
-gameboard=Board()
+    def spam(self):
+        pass
+    
+gameboard = Board()
